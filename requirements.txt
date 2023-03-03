@@ -1,0 +1,9 @@
+python
+datetime
+pandas
+plotly.express
+dash
+requests
+numpy
+prophet
+pickle
