@@ -1,9 +1,8 @@
 python
-datetime
 pandas
-plotly.express
+numpy
+datetime
+prophet
+pystan
 dash
 requests
-numpy
-prophet
-pickle
